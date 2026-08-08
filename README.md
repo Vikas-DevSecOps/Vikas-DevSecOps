@@ -227,9 +227,9 @@ I'm intentionally expanding beyond Azure into areas that are shaping the next ph
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/keshavjeetsingh](https://www.linkedin.com/in/vikasdevops)
-- 🐙 **GitHub:** [github.com/Keshavjeet14](https://github.com/Vikas-DevSecOps)
-- 📧 **Email:** [jeet.keshav14@gmail.com](mailto:vikas.cloudops@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/vikasdevops](https://www.linkedin.com/in/vikasdevops)
+- 🐙 **GitHub:** [github.com/DevSecOps](https://github.com/Vikas-DevSecOps)
+- 📧 **Email:** [vikas.cloudops@gmail.com](mailto:vikas.cloudops@gmail.com)
 - 🌐 **Portfolio:** Coming Soon 🚧
 
 <div align="center">
